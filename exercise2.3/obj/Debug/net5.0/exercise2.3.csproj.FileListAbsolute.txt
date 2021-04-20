@@ -1,0 +1,16 @@
+C:\workspaces-cs\nested_Repitition\exercise2.3\obj\Debug\net5.0\exercise2.3.csprojAssemblyReference.cache
+C:\workspaces-cs\nested_Repitition\exercise2.3\obj\Debug\net5.0\exercise2.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspaces-cs\nested_Repitition\exercise2.3\obj\Debug\net5.0\exercise2.3.AssemblyInfoInputs.cache
+C:\workspaces-cs\nested_Repitition\exercise2.3\obj\Debug\net5.0\exercise2.3.AssemblyInfo.cs
+C:\workspaces-cs\nested_Repitition\exercise2.3\obj\Debug\net5.0\exercise2.3.csproj.CoreCompileInputs.cache
+C:\workspaces-cs\nested_Repitition\exercise2.3\bin\Debug\net5.0\exercise2.3.exe
+C:\workspaces-cs\nested_Repitition\exercise2.3\bin\Debug\net5.0\exercise2.3.deps.json
+C:\workspaces-cs\nested_Repitition\exercise2.3\bin\Debug\net5.0\exercise2.3.runtimeconfig.json
+C:\workspaces-cs\nested_Repitition\exercise2.3\bin\Debug\net5.0\exercise2.3.runtimeconfig.dev.json
+C:\workspaces-cs\nested_Repitition\exercise2.3\bin\Debug\net5.0\exercise2.3.dll
+C:\workspaces-cs\nested_Repitition\exercise2.3\bin\Debug\net5.0\ref\exercise2.3.dll
+C:\workspaces-cs\nested_Repitition\exercise2.3\bin\Debug\net5.0\exercise2.3.pdb
+C:\workspaces-cs\nested_Repitition\exercise2.3\obj\Debug\net5.0\exercise2.3.dll
+C:\workspaces-cs\nested_Repitition\exercise2.3\obj\Debug\net5.0\ref\exercise2.3.dll
+C:\workspaces-cs\nested_Repitition\exercise2.3\obj\Debug\net5.0\exercise2.3.pdb
+C:\workspaces-cs\nested_Repitition\exercise2.3\obj\Debug\net5.0\exercise2.3.genruntimeconfig.cache

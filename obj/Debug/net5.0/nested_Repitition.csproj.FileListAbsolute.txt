@@ -1,0 +1,16 @@
+C:\workspaces-cs\nested_Repitition\bin\Debug\net5.0\nested_Repitition.exe
+C:\workspaces-cs\nested_Repitition\bin\Debug\net5.0\nested_Repitition.deps.json
+C:\workspaces-cs\nested_Repitition\bin\Debug\net5.0\nested_Repitition.runtimeconfig.json
+C:\workspaces-cs\nested_Repitition\bin\Debug\net5.0\nested_Repitition.runtimeconfig.dev.json
+C:\workspaces-cs\nested_Repitition\bin\Debug\net5.0\nested_Repitition.dll
+C:\workspaces-cs\nested_Repitition\bin\Debug\net5.0\ref\nested_Repitition.dll
+C:\workspaces-cs\nested_Repitition\bin\Debug\net5.0\nested_Repitition.pdb
+C:\workspaces-cs\nested_Repitition\obj\Debug\net5.0\nested_Repitition.csprojAssemblyReference.cache
+C:\workspaces-cs\nested_Repitition\obj\Debug\net5.0\nested_Repitition.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspaces-cs\nested_Repitition\obj\Debug\net5.0\nested_Repitition.AssemblyInfoInputs.cache
+C:\workspaces-cs\nested_Repitition\obj\Debug\net5.0\nested_Repitition.AssemblyInfo.cs
+C:\workspaces-cs\nested_Repitition\obj\Debug\net5.0\nested_Repitition.csproj.CoreCompileInputs.cache
+C:\workspaces-cs\nested_Repitition\obj\Debug\net5.0\nested_Repitition.dll
+C:\workspaces-cs\nested_Repitition\obj\Debug\net5.0\ref\nested_Repitition.dll
+C:\workspaces-cs\nested_Repitition\obj\Debug\net5.0\nested_Repitition.pdb
+C:\workspaces-cs\nested_Repitition\obj\Debug\net5.0\nested_Repitition.genruntimeconfig.cache
